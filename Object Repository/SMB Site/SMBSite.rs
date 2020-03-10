@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>SMBSite</name>
+   <tag></tag>
+   <elementGuidId>1251b21d-3ee7-4247-90d1-3e9798b4b523</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='p_lt_ctl01_Windstream_WidgetContainer_Windstream_WidgetContainerColumn_Layout_WSTileLayoutContainer_WSTileLayoutContainerColumn_Layout_Windstream_PromoTile1_PromoLinkButton']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>
